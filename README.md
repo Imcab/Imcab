@@ -1,16 +1,4 @@
-<h1 align="center">💚FRC 3472 - Programming lead</h1>
-
-<div align="center"> 
-  <img height="" src="first.jpeg"  />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Imcab.Imcab&"  />
-</div>
-
-###
-
-<h2 align="center">Looking for innovation</h1>
+<h2 align="center">Aiming for innovation and technology</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
