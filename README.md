@@ -1,4 +1,9 @@
 <h1 align="center">Imad Jared Cabrera Trejo</h1>
+
+<div align="center">
+  <img src="first.jpeg" height="250" alt="FIRST Image" />
+</div>
+
 <h3 align="center">Robotics Engineer | Software Developer | Hardware Enthusiast</h3>
 
 <div align="center">
@@ -6,6 +11,8 @@
   <img src="https://img.shields.io/badge/Java_+3-Over_Three_Years-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Experience Widget" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nVent-Innovation_in_Control_Award_2026-005cb9?style=for-the-badge" alt="Innovation in Control Award 2026" />
+  <br><br>
+  <img src="https://frc-cdn.firstinspires.org/eventweb_frc/ProgramLogos/FIRSTicon_RGB_withTM.png" height="80" alt="FIRST Logo" />
 </div>
 
 ---
