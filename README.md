@@ -2,26 +2,11 @@
 <h3 align="center">Robotics Engineer | Software Developer | Hardware Enthusiast</h3>
 
 <div align="center">
-  <em>Bridging the gap between complex software architecture and physical robotics.</em>
+  <em>Bridging the gap between complex software architecture and physical robotics.</em><br><br>
   <img src="https://img.shields.io/badge/Java_+3-Over_Three_Years-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Experience Widget" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nVent-Innovation_in_Control_Award_2026-005cb9?style=for-the-badge" alt="Innovation in Control Award 2026" />
 </div>
-
----
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-    </td>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <b>MARS Framework</b><br>
-      <em>Innovation in Control Award</em><br>
-      <br>
-      <img src="https://logo.clearbit.com/firstinspires.org" height="30" alt="FIRST Logo" style="vertical-align: middle;" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://logo.clearbit.com/nvent.com" height="25" alt="nVent Logo" style="vertical-align: middle;" />
-    </td>
-  </tr>
-</table>
 
 ---
 
