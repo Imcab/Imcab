@@ -1,9 +1,32 @@
-<h2 align="center">Aiming for innovation and technology</h1>
+<h1 align="center">Hi there, I'm Imcab 👋</h1>
+<h3 align="center">Robotics Engineer | Software Developer | Hardware Enthusiast</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <em>Bridging the gap between complex software architecture and physical robotics.</em>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+* 🤖 **Current Focus:** Lead Developer for the **MARS Framework** and **STZ Robotics**.
+* ⚙️ **Background:** 3 years as a Programming Captain in the FIRST Robotics Competition (FRC), which sparked my drive for building systems from the ground up.
+* 💻 **Software:** Passionate about cross-platform development, creating VS Code extensions, and building robust Windows utilities in **C#**.
+* 🕷️ **Hardware:** Currently engineering **Kyra Mini**, an ESP32-controlled quadruped robot, alongside physical fluid dynamics prototypes.
+* 📐 **Interests:** Advanced physics, multivariable calculus, and crafting high-quality, professional technical documentation.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -11,18 +34,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
+
+### 🚀 Highlighted Projects
+
+* **[MARS Framework](#):** A comprehensive robotics framework with documentation hosted via MkDocs and GitHub Pages.
+* **[DownloadPeer](#):** A stable, cross-platform utility compiled for Windows, Mac, and Linux.
+* **[Kyra Mini](#):** A custom-built quadruped spider robot running on 8 MG90 servos, a PCA9685 module, and an ESP32.
+* **[LockerGUI](#):** A C#-based process management utility for Windows.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imcab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imcab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Imcab's languages graph"  />
 </div>
-
-###
