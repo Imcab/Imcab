@@ -3,6 +3,7 @@
 
 <div align="center">
   <em>Bridging the gap between complex software architecture and physical robotics.</em>
+  <img src="https://img.shields.io/badge/Java_+3-Over_Three_Years-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Experience Widget" />
 </div>
 
 ---
@@ -10,7 +11,6 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" align="center" valign="middle" style="border: none;">
-      <img src="https://img.shields.io/badge/Java_+3-Over_Three_Years-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Experience Widget" />
     </td>
     <td width="50%" align="center" valign="middle" style="border: none;">
       <b>MARS Framework</b><br>
@@ -63,7 +63,7 @@
 
 ### Highlighted Projects
 
-* **[MARS Framework](#):** A comprehensive robotics framework with documentation hosted via MkDocs and GitHub Pages. *(🏆 Winner of the FIRST Innovation in Control Award sponsored by nVent)*
+* **[MARS Framework](#):** A comprehensive robotics framework with documentation hosted via MkDocs and GitHub Pages. *(Winner of the FIRST Innovation in Control Award sponsored by nVent)*
 
 ---
 
