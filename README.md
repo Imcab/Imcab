@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Imcab 👋</h1>
+<h1 align="center">Imad Jared Cabrera Trejo</h1>
 <h3 align="center">Robotics Engineer | Software Developer | Hardware Enthusiast</h3>
 
 <div align="center">
@@ -7,17 +7,35 @@
 
 ---
 
-### 👨‍💻 About Me
-
-* 🤖 **Current Focus:** Lead Developer for the **MARS Framework** and **STZ Robotics**.
-* ⚙️ **Background:** 3 years as a Programming Captain in the FIRST Robotics Competition (FRC), which sparked my drive for building systems from the ground up.
-* 💻 **Software:** Passionate about cross-platform development, creating VS Code extensions, and building robust Windows utilities in **C#**.
-* 🕷️ **Hardware:** Currently engineering **Kyra Mini**, an ESP32-controlled quadruped robot, alongside physical fluid dynamics prototypes.
-* 📐 **Interests:** Advanced physics, multivariable calculus, and crafting high-quality, professional technical documentation.
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <img src="https://img.shields.io/badge/Java_+3-Over_Three_Years-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java Experience Widget" />
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none;">
+      <b>MARS Framework</b><br>
+      <em>Innovation in Control Award</em><br>
+      <br>
+      <img src="https://logo.clearbit.com/firstinspires.org" height="30" alt="FIRST Logo" style="vertical-align: middle;" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://logo.clearbit.com/nvent.com" height="25" alt="nVent Logo" style="vertical-align: middle;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### About Me
+
+* **Current Focus:** Lead Developer for the **MARS Framework** and **STZ Robotics**.
+* **Background:** 3 years as a Programming Captain in the FIRST Robotics Competition (FRC), which sparked my drive for building systems from the ground up.
+* **Software:** Passionate about cross-platform development, creating VS Code extensions, and building robust Windows utilities in **C#**.
+* **Hardware:** Currently engineering **Kyra Mini**, an ESP32-controlled quadruped robot.
+* **Interests:** Advanced physics, multivariable calculus, crafting high-quality, professional technical documentation and robotics.
+
+---
+
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -43,16 +61,13 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
-* **[MARS Framework](#):** A comprehensive robotics framework with documentation hosted via MkDocs and GitHub Pages.
-* **[DownloadPeer](#):** A stable, cross-platform utility compiled for Windows, Mac, and Linux.
-* **[Kyra Mini](#):** A custom-built quadruped spider robot running on 8 MG90 servos, a PCA9685 module, and an ESP32.
-* **[LockerGUI](#):** A C#-based process management utility for Windows.
+* **[MARS Framework](#):** A comprehensive robotics framework with documentation hosted via MkDocs and GitHub Pages. *(🏆 Winner of the FIRST Innovation in Control Award sponsored by nVent)*
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imcab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Imcab's languages graph"  />
