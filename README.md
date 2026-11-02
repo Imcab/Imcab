@@ -4,7 +4,7 @@
   <img src="first.jpeg" height="250" alt="FIRST Image" />
 </div>
 
-<h3 align="center">Robotics Engineer | Software Developer | Hardware Enthusiast</h3>
+<h3 align="center">Robotics Engineer</h3>
 
 <div align="center">
   <em>Bridging the gap between complex software architecture and physical robotics.</em><br><br>
